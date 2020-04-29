@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name                  = 'MyTencentOpenAPI'
-  s.version               = '3.3.8'#版本号﻿
+  s.version               = '3.3.9'#版本号﻿
   s.summary               = '个人使用的TencentOpenAPI的pod库'#简短的介绍﻿
   s.homepage              = 'https://wiki.connect.qq.com'#主页,这里要填写可以访问到的地址，不然验证不通过﻿
   s.ios.deployment_target = '9.0'#支持平台及版本﻿
