@@ -13,6 +13,5 @@ Pod::Spec.new do |s|
   s.libraries             = 'iconv', 'sqlite3', 'stdc++', 'z'
   s.vendored_frameworks   = 'TencentOpenAPI/TencentOpenAPI.framework'
   s.requires_arc          = true#项目是否使用ARC﻿
-  #s.resources    				= "TencentOpenAPI/*.{png,bundle}"#从sdk3.3.5版本开始，此文件可以不要了
   
 end
